@@ -10,7 +10,7 @@ function NavBar(props) {
     .filter((item) => item.isLink)
     .map((item, index) => (
       <li className="nav-item ls-2 fs-30" key={index}>
-        <Link to={item.link} class="nav-link active" aria-current="page">
+        <Link to={item.link} className="nav-link active" aria-current="page">
           {item.title}
         </Link>
       </li>

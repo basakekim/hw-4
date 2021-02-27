@@ -1,0 +1,40 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "img": "/images/restaurant/resto1.jpg"
+    },
+    {
+      "id": 2,
+      "img": "/images/restaurant/resto2.jpg"
+    },
+    {
+      "id": 3,
+      "img": "/images/restaurant/resto3.jpeg"
+    },
+    {
+      "id": 4,
+      "img": "/images/restaurant/resto4.jpeg"
+    },
+    {
+      "id": 5,
+      "img": "src/images/restaurant/resto5.jpg"
+    },
+    {
+      "id": 6,
+      "img": "src/images/restaurantsrestot6.jpg"
+    },
+    {
+      "id": 7,
+      "img": "src/images/restaurant/resto7.jpg"
+    },
+    {
+      "id": 8,
+      "img": "src/images/restaurant/resto8.jpg"
+    },
+    {
+      "id": 9,
+      "img": "src/images/restaurant/resto9.jpg"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "clothesInfo": [
+    {
+      "id": 1,
+      "title": "T-shirt",
+      "price": "45",
+      "detail": "Lorem ipsum dolor sit amet. ",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "Dress",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "41",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "title": "Skirt",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "39",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "title": "Hat",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "34",
+      "isActive": true
+    },
+    {
+      "id": 5,
+      "title": "Pants",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "33",
+      "isActive": true
+    },
+    {
+      "id": 6,
+      "title": "Sweater",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "28",
+      "isActive": true
+    },
+    {
+      "id": 7,
+      "title": "Coat",
+      "detail": "Lorem ipsum dolor sit amet.",
+      "price": "27",
+      "isActive": true
+    }
+  ]
+}
